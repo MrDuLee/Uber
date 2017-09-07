@@ -1,0 +1,6 @@
+[submodule "BeerTracker"]
+	path = BeerTracker
+	url = https://github.com/MrDuLee/BeerTracker.git
+[submodule "Runtracker"]
+	path = Runtracker
+	url = https://github.com/MrDuLee/RunTracker.git
