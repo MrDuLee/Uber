@@ -4,3 +4,6 @@
 [submodule "Runtracker"]
 	path = Runtracker
 	url = https://github.com/MrDuLee/RunTracker.git
+[submodule "StuffTracker"]
+	path = StuffTracker
+	url = https://github.com/MrDuLee/StuffTracker.git
